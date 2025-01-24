@@ -55,7 +55,7 @@ The dataset consists of **768 rows and 9 columns**, including features and the t
 - Developed two predictive models: **Logistic Regression** and **Decision Tree**.  
 
 ### **3. Model Evaluation**
-- Evaluated the models based on accuracy, precision, recall, and F1 score.  
+- Evaluated the models based on accuracy, precision.  
 - Compared the performance of the models to identify the most reliable one for diabetes prediction.
 
 ---
